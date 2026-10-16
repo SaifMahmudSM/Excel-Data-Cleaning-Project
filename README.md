@@ -35,10 +35,11 @@ images/ — Before-and-after screenshots.
 
 ## After Data Cleaning
 
-![After Cleaning](Images/Clean_data.png)
+![After Cleaning](Images/Clean_data.jpg)
 
 # Data Cleaning Process
 Inspected the original dataset.
+
 Identified data quality issues.
 Standardized inconsistent values and formats.
 Handled missing and duplicate records based on the project requirements.
