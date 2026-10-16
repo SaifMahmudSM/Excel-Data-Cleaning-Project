@@ -51,7 +51,6 @@ Microsoft Excel | Data Cleaning | Data Quality | Data Validation | Data Preparat
 ### 🚀 Author
 
 - 💼 **LinkedIn:** [View my Professional Profile](https://www.linkedin.com/in/saifmahmudsm/)
-- 💻 **GitHub:** You are already here!
 - 📧 **Email:** saifmahmud42069@gmail.com
 
 
