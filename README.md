@@ -24,10 +24,10 @@ This project demonstrates a practical data cleaning workflow using Microsoft Exc
 * Conditional Formatting
 
 # Project Files
-Messy_Raw_Data.xlsx — Original dataset before cleaning.
-Clean_Data.xlsx — Final cleaned dataset.
-Data Cleaning.pdf — Summary of data quality issues and cleaning results.
-images/ — Before-and-after screenshots.
++ Messy_Raw_Data.xlsx — Original dataset before cleaning.
++ Clean_Data.xlsx — Final cleaned dataset.
++ Data Cleaning.pdf — Summary of data quality issues and cleaning results.
++ images/ — Before-and-after screenshots.
 
 ## Before Data Cleaning
 
@@ -48,6 +48,10 @@ images/ — Before-and-after screenshots.
 ## Skills Demonstrated
 Microsoft Excel | Data Cleaning | Data Quality | Data Validation | Data Preparation
 
-# Author
-[![LinkedIn](https://shields.io)](https://https://www.linkedin.com/in/saifmahmudsm/)
+### 🚀 Author
+
+- 💼 **LinkedIn:** [View my Professional Profile](https://www.linkedin.com/in/saifmahmudsm/)
+- 💻 **GitHub:** You are already here!
+- 📧 **Email:** saifmahmud42069@gmail.com
+
 
